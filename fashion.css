@@ -1,0 +1,29 @@
+.jumbotron{
+    margin: 0%;
+    padding: 30px;
+    background-image: linear-gradient(red,blue,yellow,green
+    );
+    background-image: url("img/spa.jpg");
+    background-size: cover;
+    color:rgb(255, 255, 255);
+    font-size: xx-large;
+}
+
+img{
+    float: left;
+}
+h2{
+    font-size: x-large;
+    color:white;
+}
+h1{
+    font-family: cursive;
+    font-size: xxx-large;
+}
+
+.modal-header{
+        font-family: cursive;
+        background-color:rgb(160, 255, 132);
+        color: black;
+    }
+
